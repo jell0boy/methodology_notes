@@ -1,0 +1,1 @@
+`sudo env "PATH=$PATH" autorecon <ip_address>
